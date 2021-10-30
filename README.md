@@ -14,7 +14,7 @@ we will develop insights into the barriers to vaccination among these demographi
 
 We will also do an analysis on the rate of vaccinations compared to hospitalizations and comparing the rate of death. 
  
-Research Questions
+Research Questions:
  Who is getting the vaccine? What age, race/ethnicity, gender?
  Based on race/ethnicity groups, are there triggers to an increased number of vaccinations?
  Based on socioeconomic status, who is getting vaccinated? What could be a barrier to vaccination?
